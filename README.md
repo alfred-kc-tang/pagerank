@@ -1,4 +1,4 @@
-# [PageRank Alogrithm](https://alfred-kctang.github.io/pagerank/)
+# PageRank Alogrithm
 
 The PageRank algorithm was first proposed by Larry Page, one of the founders of Google, to rank web pages in the search engine results, where more “important” web pages are ranked higher.  According to Google: it works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites. The algorithm outputs a probability distribution over all web pages, representing the likelihood that a person randomly surfing the web (randomly clicking on links) would arrive at those pages. For details, please refer to the [wikipedia page](https://en.wikipedia.org/wiki/PageRank).
 
